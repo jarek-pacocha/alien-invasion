@@ -7,7 +7,6 @@ It was inspired by *Eric Matthes's Python Crash Course.*
 ![Alien Invastion sample gif](./images/AlienInvasion.gif)
 
 ## Set up
----
 
 To play simply:
 
@@ -21,8 +20,6 @@ To play simply:
 `python alien_invasion.py`
 
 ## Controls
----
-
 
 Move left: `LEFT ARROW KEY or A`  
 
@@ -35,6 +32,5 @@ Play: `P`
 Quit: `Q`
 
 ## Feedback and questions
----
 
 I would appreciate any feedback or welcome any questions you might have. You can find my contact information in the bio or on my [website](https://jarekpacocha.online).
